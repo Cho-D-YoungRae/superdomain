@@ -1,5 +1,15 @@
 # superdomain
 
+> [!IMPORTANT]
+> **이 저장소는 보관(archive)되어 더 이상 갱신되지 않습니다.** superdomain은 [Cho-D-YoungRae/superkit](https://github.com/Cho-D-YoungRae/superkit/tree/main/plugins/superdomain)으로 옮겼고, 이 저장소의 커밋 이력도 그대로 그곳에 있습니다.
+>
+> 설치는 superkit 마켓플레이스에서 합니다. 예전에 이 저장소를 마켓플레이스로 추가했다면 먼저 지웁니다(`/plugin marketplace remove superdomain`).
+>
+> ```
+> /plugin marketplace add Cho-D-YoungRae/superkit
+> /plugin install superdomain@superkit
+> ```
+
 도메인 로직이 드러나는 코드를 돕는 Claude Code 플러그인.
 
 - 도메인마다 역할·기능·관계를 `docs/superdomain/DOMAIN.md` 한 파일에 정의한다.
